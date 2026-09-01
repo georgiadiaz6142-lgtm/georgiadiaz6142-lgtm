@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm 七七
+# 👋 Hi, 我是宋静雯
 
 ### AI Workflow Explorer · Product Thinker · Independent Builder
 
